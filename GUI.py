@@ -165,7 +165,7 @@ def main():
     key = None
     run = True
     start = time.time()
-    strikes =
+    strikes =5
     while run:
 
         play_time = round(time.time() - start)
